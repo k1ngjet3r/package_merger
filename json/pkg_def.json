@@ -1,0 +1,674 @@
+{
+    "Phone_connectivity_1": [
+        "ea-bt1c1-unpair",
+        "ea-bt-nobt",
+        "ea-rmtp4-normal",
+        "ea-usb-nousb",
+        "ea-sd-nosd",
+        "ea-aap-noaaphone",
+        "ea-carp-noiphone",
+        "ea-bt2c2-unpair",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "pr-ecud-onstar"
+    ],
+    "Phone_connectivity_2": [
+        "ea-bt1c1-normal",
+        "ea-bt1-normal",
+        "ea-bt2c2-unpair",
+        "ea-rmtp4-normal",
+        "ea-usb-normal",
+        "pr-apk-pandora",
+        "pr-cal-ecc",
+        "pr-cal-defaultClimate",
+        "sc-wifi-register",
+        "ea-aap-noaaphone"
+    ],
+    "Trailer_truck_calibration_1 & Settings": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-cal-trailerTruckEnableAll",
+        "sc-cld-personal"
+    ],
+    "Diagnostic_package2": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "ea-usb-normal",
+        "sc-wifi-register",
+        "ea-rmtp4-normal",
+        "ea-aap-noaaphone",
+        "pr-apk-permission"
+    ],
+    "Trailer_truck_calibration_2": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-cal-trailerTruckEnableAll",
+        "pr-cal-maxpage3",
+        "ea-aap-noaaphone",
+        "ea-carp-noiphone",
+        "ea-bt-nobt",
+        "te-cam-camera",
+        "pr-cal-rvsoff3"
+    ],
+    "Trailer_suv_calibration_1": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "pr-cal-trailerSUVEnableAll",
+        "pr-apk-pandora",
+        "ac-user-gmuser"
+    ],
+    "Trailer_suv_calibration_2 & Settings & Camera": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "pr-cal-trailerlite"
+    ],
+    "Wireless_Android_auto_1": [
+        "te-bcm-nobcm",
+        "ea-waap1-normal",
+        "ea-mon-normal",
+        "ea-usb-normal",
+        "pr-apk-pandora",
+        "ac-user-gmuser",
+        "ea-bt1c1-unpair",
+        "ea-carp-noiphone",
+        "ea-sc-front",
+        "ea-sc-normal",
+        "ea-rmtp4-normal"
+    ],
+    "Media_player_1": [
+        "ea-bt1-iphone",
+        "ea-usb-normal",
+        "ea-rmtp4-normal",
+        "ea-mon-normal",
+        "pr-apk-iheart",
+        "pr-gas-toronto",
+        "pr-cal-trailer-suv",
+        "trailerSUVEnableAll",
+        "ea-sc-normal"
+    ],
+    "Trailer_suv_calibration_2": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "pr-cal-trailerSUVEnableAll"
+    ],
+    "Phone_projection_1": [
+        "te-bcm-nobcm",
+        "ea-mon-normal,",
+        "ea-aap-normal,",
+        "ea-iap-iphone,",
+        "ea-wifi-antenna24g,",
+        "ac-gas-testfang,",
+        "pr-gas-toronto",
+        "es-sc-normal",
+        "ea-usb-normal",
+        "ea-rmtp4-normal",
+        "pr-apk-spotify"
+    ],
+    "Diagnostic_usbrelay": [
+        "ea-usb-urp1",
+        "ea-usb2-urp2",
+        "ea-bt1c1-normal",
+        "ea-rmtp4-normal",
+        "ea-mon-normal",
+        "ac-user-gmuser",
+        "te-bcm-nobcm",
+        "pr-ecud-onstar",
+        "te-cam-camera",
+        "ea-aap-noaaphone",
+        "ea-carp-noiphone",
+        "ea-sc-normal"
+    ],
+    "Trailer_truck_8": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "ea-carp-noiphone",
+        "ea-bt-nobt",
+        "ea-aap-noaaphone",
+        "ac-user-gmuser",
+        "sc-wifi-register"
+    ],
+    "Trailer_truck_9": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-ecud-noonstar"
+    ],
+    "Diagnostic_package3": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "ea-mon-normal",
+        "ac-user-gmuser",
+        "sc-wifi-register"
+    ],
+    "Ignition_package_2": [
+        "ea-ign-normal",
+        "ac-user-gmuser",
+        "te-ben-bcmon",
+        "pr-apk-lcm",
+        "pr-cal-acue",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "pr-cal-frontOnly",
+        "te-hvac-faceplate",
+        "te-hvac-ecc",
+        "pr-cal-trailer-suv"
+    ],
+    "Ignition_package_3": [
+        "ea-ign-normal",
+        "ea-mon-normal",
+        "ea-bt1c1-unpair",
+        "ea-bt2c2-unpair",
+        "ea-rmtp4-normal",
+        "ea-aap-urp1",
+        "ea-carp-urp2",
+        "ac-user-gmuser",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "pr-cal-trailer",
+        "pr-cal-frontOnly",
+        "pr-cal-waapoff",
+        "ea-sc-normal "
+    ],
+    "Onstar_Package1": [
+        "TC_ONSTAR_APP_NEW_0124",
+        "TC_ONSTAR_APP_NEW_0112",
+        "TC_ONSTAR_APP_NEW_0121",
+        "TC_ONSTAR_APP_NEW_0150",
+        "TC_MFL_155165_Emergency_TTY_Keyboard_0002",
+        "TC_MFL_155165_Emergency_TTY_Keyboard_0008",
+        "TC_MFL_155165_Emergency_TTY_Keyboard_0009",
+        "TC_MFL_155170_Emergency_Event_TTY_keyboard_0008"
+    ],
+    "Apple_carplay_1": [
+        "ea-usb-normal",
+        "ea-ign-normal",
+        "ea-neof-normal",
+        "ea-carp-urp1",
+        "ea-sc-normal",
+        "ea-sc-front",
+        "ea-carp-normal",
+        "ea-bt2c2-unpair",
+        "ea-bt1c1-unpair",
+        "ea-bt-nobt",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "pr-ecud-onstar"
+    ],
+    "Wireless_Apple_carplay_1": [
+        "ea-ign-normal",
+        "ea-usb-urp1",
+        "pr-cal-localusers",
+        "ea-wcp1-normal",
+        "ea-mon-normal",
+        "ea-bt1c1-unpair",
+        "ea-bt2c2-unpair",
+        "pr-ecud-onstar",
+        "ea-lin-normal",
+        "te-ben-clusterE2AT",
+        "ea-sc-normal",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto"
+    ],
+    "Ignition_package_4": [
+        "ea-mon-normal",
+        "ea-ign-normal",
+        "ea-waap1-normal",
+        "te-cam-camera",
+        "ea-tcp-register",
+        "te-ben-tcpon",
+        "pr-cal-accountPE",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "ea-wifi-antenna24g",
+        "ea-vr-normal",
+        "pr-ecud-onstar",
+        "ea-sc-normal"
+    ],
+    "Row_build_non_gas_1": [
+        "ea-bt1c1-normal",
+        "ea-bt1-normal",
+        "ea-rmtp4-normal",
+        "ea-row-build",
+        "ea-mon-normal",
+        "pr-cal-nogps",
+        "ea-sc-normal",
+        "pr-cal-bosepolit",
+        "pr-cal-regioneu",
+        "te-ben-bcmon"
+    ],
+    "Row_build_non_gas_2": [
+        "ea-bt1-iphone",
+        "ea-rmtp4-normal",
+        "ea-row-build",
+        "ea-mon-normal",
+        "pr-cal-NAVdisable"
+    ],
+    "Row_build_non_gas_3": [
+        "ea-row-build",
+        "pr-cal-externalonstargps"
+    ],
+    "eco-mate_chimes_setting": [
+        "ea-mon-normal,",
+        "ea-sc-front",
+        "sc-wifi-nowifi",
+        "ea-carp-normal",
+        "te-bcm-nobcm",
+        "ac-user-gmuser"
+    ],
+    "Trailer_suv_1": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv"
+    ],
+    "Trailer_suv_2": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv"
+    ],
+    "Trailer_suv_5": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "pr-ecud-noonstar"
+    ],
+    "eco-mate_chimes_ssp": [
+        "ea-mon-normal,",
+        "ea-sc-rear,",
+        "sc-wifi-nowifi,",
+        "ac-user-nouser"
+    ],
+    "Trailer_truck_1": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "Trailer_truck_2": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "Diagnostic_package1": [
+        "te-bcm-nobcm",
+        "te-cam-nocamera",
+        "ea-mon-normal",
+        "pr-cal-ecc",
+        "pr-apk-permission",
+        "ea-wcp1-normal",
+        "ea-usb-normal",
+        "pr-ecud-onstar",
+        "pr-apk-iheart"
+    ],
+    "Trailer_truck_3": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "Trailer_truck_4": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "Trailer_truck_7 & Home Screen": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "eco-mate_ssp_diagnostic": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "ea-bt-nobt",
+        "pr-ecud-noonstar",
+        "ea-aap-noaaphone",
+        "ea-carp-noiphone",
+        "ea-sd-nosd",
+        "sc-wifi-register",
+        "ea-usb-normal"
+    ],
+    "Trailer_truck_5": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer"
+    ],
+    "Trailer_truck_6": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-cal-acue"
+    ],
+    "eco-mate_setting_diagnostic_apa": [
+        "ea-mon-normal,",
+        "ea-bt1c1-normal,",
+        "pr-cal-trailer,",
+        "te-bcm-nobcm,",
+        "te-tcp-notcp,",
+        "pr-cal-nogps",
+        "ea-rmtp4-normal",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g"
+    ],
+    "Wifi_package_1": [
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "pr-ecud-noonstar",
+        "ea-usb-normal",
+        "pr-apk-spotify",
+        "ea-sc-normal"
+    ],
+    "Chimes_HVAC": [
+        "1. Chimes cases in this package are for front speaker",
+        "ea-mon-normal",
+        "te-amp-external",
+        "ea-sc-normalCloseCluster",
+        "pr-cal-ecc",
+        "pr-cal-defaultClimate",
+        "te-hvac-faceplate",
+        "ea-ign-normal",
+        "te-ben-bcmon"
+    ],
+    "Bench_HVAC_2": [
+        "ea-mon-normal",
+        "te-bcm-normal",
+        "te-hvac-ecc",
+        "te-hvac-faceplate",
+        "te-amp-external",
+        "ea-carp-normal",
+        "ea-usb-normal",
+        "pr-cal-bosepolit",
+        "pr-cal-rearOnly",
+        "ea-ign-normal"
+    ],
+    "Power_Moding": [
+        "ea-ign-normal",
+        "ea-bt1-normal",
+        "ea-rmtp4-normal",
+        "pr-cal-rearOnly",
+        "pr-cal-acue",
+        "te-hvac-ecc",
+        "te-hvac-faceplate",
+        "pr-cal-trailer-suv",
+        "ea-usb-normal",
+        "ea-sc-normal"
+    ],
+    "Ignition_package_1": [
+        "ea-mon-normal,",
+        "ea-ign-normal,",
+        "sc-cld-personal"
+    ],
+    "Trailer_suv_3": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "ea-bt-nobt",
+        "ea-usb-nousb",
+        "ea-sd-nosd",
+        "sc-cld-personal"
+    ],
+    "Trailer_suv_4": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ac-user-nouser",
+        "ea-mon-normal",
+        "pr-cal-trailer-suv",
+        "pr-cal-notty",
+        "sc-cld-personal",
+        "pr-cal-sharewifihotspotdisable"
+    ],
+    "Trailer_truck_calibration_3": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailerTruckEnableAll",
+        "ea-bt-nobt",
+        "pr-ecud-onstar"
+    ],
+    "Trailer_suv_calibration_3": [
+        "Test environment:",
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        " ",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailerSUVEnableAll",
+        "sc-wifi-register",
+        "pr-cal-wcpoff",
+        "pr-cal-waapoff"
+    ],
+    "Diagnostic_DoIP": [
+        "None"
+    ],
+    "gas_user_1": [
+        "te-bcm-nobcm",
+        "ea-mon-normal (1 case)",
+        "ac-user-gmuser,",
+        "ea-bt1c1-unpair,",
+        "ea-bt2c2-unpair,",
+        " sc-wifi-nowifi",
+        "ea-waap1c7-unpair",
+        "ea-sc-front"
+    ],
+    "Trailer_truck_calibration_2 & Settings": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-cal-trailerlite",
+        "pr-cal-acue",
+        "ea-usb-normal",
+        "ea-aap-noaaphone",
+        "ea-sd-nosd",
+        "ea-bt-nobt"
+    ],
+    "Trailer_CardView_package1": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "ea-carp-urp1",
+        "sc-cld-personal"
+    ],
+    "Settings_package_1": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "te-bcm-nobcm",
+        "ea-mon-normal"
+    ],
+    "Trailer_truck_10": [
+        "Eco-mate  & C-ATS 7.4 & MY22GB10TB HMI",
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "pr-cal-trailer",
+        "pr-cal-nogps",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "ea-waap1-normal",
+        "pr-apk-iheart",
+        "pr-apk-spotify"
+    ],
+    "USB_Update_Package1": [
+        "ea-usb-urp1update,",
+        "ea-mon-normal,",
+        "te-bcm-nobcm"
+    ],
+    "Chimes_External": [
+        "ea-mon-normal",
+        "te-amp-external",
+        "ea-sc-rear",
+        "ea-sc-front",
+        "ea-sc-normalCloseCluster",
+        "ea-sc-externalRearCloseCluster"
+    ],
+    "Chimes_Internal": [
+        "ea-mon-normal",
+        "ea-sc-rear",
+        "ea-sc-front"
+    ],
+    "Trailer_truck_calibration_4": [
+        "pr-cal-trailer",
+        "te-bcm-nobcm",
+        "pr-cal-gcw",
+        "ea-mon-normal"
+    ],
+    "Trailer_suv_calibration_4": [
+        "pr-cal-trailer-suv",
+        "te-bcm-nobcm",
+        "pr-cal-gcw",
+        "ea-mon-normal"
+    ],
+    "Trailer_truck_calibration_5": [
+        "pr-cal-trailer",
+        "te-bcm-nobcm",
+        "pr-cal-gcw",
+        "ea-mon-normal",
+        "pr-cal-gcwr2000",
+        "ea-sc-normal"
+    ],
+    "Trailer_suv_calibration_5": [
+        "pr-cal-trailer-suv",
+        "te-bcm-nobcm",
+        "pr-cal-gcw",
+        "ea-mon-normal",
+        "pr-cal-gcwr2000",
+        "ea-sc-normal"
+    ],
+    "Cluster_1": [
+        "ea-lin-normal",
+        "ea-neof-normal",
+        "ea-usb-normal",
+        "te-ben-clusterE2AT",
+        "te-ben-bcmon",
+        "ea-carp-noiphone",
+        "ea-bt1-normal"
+    ],
+    "Robot_arm_ignition_1": [
+        "ea-bt1c1-unpair",
+        "ea-ign-normal",
+        "ea-mon-normal",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ea-ra-normal",
+        "pr-cal-trailer",
+        "ea-usb-normal",
+        "ea-bt2c2-unpair",
+        "ea-carp-noiphone",
+        "ac-user-gmuser ",
+        "ea-sc-normal",
+        "ea-sc-normalCloseCluster",
+        "te-amp-internal",
+        "te-ben-verticalbrake",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "pr-cal-acue",
+        "ea-wifi-available",
+        "pr-cal-defaultClimate",
+        "te-hvac-faceplate",
+        "te-ben-bcmon",
+        "te-hvac-ecc",
+        "sc-cld-personal"
+    ],
+    "Robot_arm_wireless_androidauto": [
+        "ea-ign-normal,",
+        "ea-waap1-normal,",
+        "ea-ra-normal",
+        "sc-wifi-register,",
+        "ea-wifi-antenna24g,",
+        "pr-cal-trailerlite",
+        "ac-user-gmuser",
+        "ea-mon-normal",
+        "te-ben-tcpon"
+    ],
+    "Robot_arm_cluster": [
+        "ea-ra-normal,",
+        "ea-mon-normal,",
+        "ea-neof-normal,",
+        "ea-ign-normal,",
+        "te-ben-clusterE2AT,",
+        "te-bcm-novin",
+        "pr-cal-LocalInfoTimeout180",
+        "ea-wifi-antenna24g,",
+        "ac-gas-testfang,",
+        "pr-gas-toronto,",
+        "pr-ecud-onstar",
+        "ea-bt1c1-normal",
+        "ea-sc-normal",
+        "ea-rmtp4-normal",
+        "te-ben-verticalbrake",
+        "ea-usb-normal",
+        "ea-bt1-normal",
+        "ea-lin-normal"
+    ],
+    "Robot_arm_wired_androidauto": [
+        "ea-aap-urp1,",
+        "ea-ign-normal,",
+        "ea-ra-normal",
+        "pr-cal-waapoff,",
+        "ea-bt1c1-unpair,",
+        "ac-user-gmuser",
+        "ea-rmtp4-normal",
+        "ea-mon-normal",
+        "ea-aap-normal",
+        "sc-cld-personal",
+        "te-ben-tcpoff"
+    ],
+    "Robot_arm_user_mate": [
+        "ea-ra-normal,",
+        "ac-user-gmuser,",
+        "ea-mon-normal,",
+        "te-bcm-nobcm",
+        "pr-cal-trailer",
+        "ea-carp-noiphone",
+        "sc-cld-personal"
+    ],
+    "Robot_arm_demo_mode": [
+        "pr-demo-normal ",
+        "ea-ra-normal ",
+        "ea-ign-normal"
+    ]
+}
