@@ -1,0 +1,146 @@
+{
+    "ea-aux-normal": [
+        "ea-stre-normal"
+    ],
+    "ea-stre-normal": [
+        "ea-vr-normal"
+    ],
+    "sc-cld-personal": [
+        "ea-bt1-normal",
+        "ea-bt1-1.3",
+        "ea-bt1-1.3fbdcalllog",
+        "ea-bt1-1.4",
+        "ea-bt1-3waycall",
+        "ea-bt1c1-1.4",
+        "ea-bt1c1-bluetooth1",
+        "ea-bt1c1-moto",
+        "ea-bt1c1-normal",
+        "ea-bt1c1-ss",
+        "ea-bt1c1-lg",
+        "ea-bt1-iphone",
+        "ea-bt1-nosong",
+        "ea-bt1-pair",
+        "ea-bt1-spddial",
+        "ea-bt2-1.3",
+        "ea-bt2-bluetooth2",
+        "ea-bt2c2-normal",
+        "ea-bt2-normal",
+        "ea-bt3c3-normal",
+        "ea-bt3-normal",
+        "ea-bt1-stream1.4",
+        "ea-bt1-contact",
+        "ea-bt-Android",
+        "ea-bt-GMAUTO",
+        "ea-bt3c3-ss",
+        "ea-bt1-nocontact",
+        "ea-bt1-nosim",
+        "ea-bt-10bt",
+        "ea-bt2c2-lg1.3",
+        "ea-bt2-contact",
+        "ea-bt1-onlybt1",
+        "ea-bt2-pair",
+        "ea-bt3-unavailable",
+        "ea-bt1-secoff",
+        "ea-carp-normal",
+        "ea-carp-noaudio",
+        "ea-carp-urp1",
+        "ea-carp-urp2",
+        "ea-aap-normal",
+        "ea-aap-urp1",
+        "ea-aap-urp2",
+        "ea-aap-urp2gm1",
+        "ea-aap-urp1special",
+        "ac-user-gmuser",
+        "ac-user-localuserpin",
+        "lc-us-onlineuser"
+    ],
+    "ea-sc-rear": [
+        "ea-sc-normal"
+    ],
+    "ac-user-nouser": [
+        "pr-cal-localusers"
+    ],
+    "ea-bt1-iphone": [
+        "ea-bt1-1.3"
+    ],
+    "ea-vr-lcr": [
+        "ea-vr-normal"
+    ],
+    "ea-vr-mcr": [
+        "ea-vr-normal"
+    ],
+    "ea-vr-hcr": [
+        "ea-vr-normal"
+    ],
+    "ea-bt-nobt": [
+        "ea-aap-normal"
+    ],
+    "te-amp-external": [
+        "te-amp-internal"
+    ],
+    "ea-sc-normal": [
+        "pr-cal-amp/te-amp-external"
+    ],
+    "te-amp-internal": [
+        "ea-cal-amp"
+    ],
+    "ea-ben-bcmoff": [
+        "pr-cal-ecc",
+        "te-hvac-ecc"
+    ],
+    "ea-iap-iphone": [
+        "ea-iap-vr"
+    ],
+    "ea-bt1-secoff": [
+        "ea-bt2-normal",
+        "ea-aap-normal"
+    ],
+    "ea-carp-normal": [
+        "ea-iap-iphone"
+    ],
+    "ea-diag-basic": [
+        "ea-mon-normal"
+    ],
+    "pr-cal-trailer-suv": [
+        "pr-cal-trailer",
+        "pr-cal-trailerjk0",
+        "pr-cal-trailerol0",
+        "pr-cal-trailer0"
+    ],
+    "pr-cal-trailerRTG": [
+        "pr-cal-trailerRTG0"
+    ],
+    "pr-cal-trailerRTG,pr-cal-trailerRTG0": [
+        "pr-cal-trailerol1",
+        " pr-cal-trailerjk1",
+        "pr-cal-trailer"
+    ],
+    "pr-demo-normal": [
+        "ac-user-gmuser"
+    ],
+    "ea-bt1-1.3": [
+        "ea-bt1-1.4"
+    ],
+    "ea-waap1-normal": [
+        "ea-aap-normal"
+    ],
+    "ea-wcp1-normal": [
+        "ea-carp-normal"
+    ],
+    "pr-ecud-onstar": [
+        "te-ben-tcpon"
+    ],
+    "pr-cal-cadilac": [
+        "pr-cal-chevrolet",
+        "pr-cal-gmc"
+    ],
+    "pr-cal-trailer all related preconditions": [
+        "for GB: can't set on bench"
+    ],
+    "ea-carp-noiphone": [
+        "sc-csc-disablecarp"
+    ],
+    "ac-user-gmuser": [
+        "sc-wifi-register"
+    ]
+}

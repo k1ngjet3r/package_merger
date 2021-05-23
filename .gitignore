@@ -131,3 +131,4 @@ dmypy.json
 
 test.py
 pkg_precode.xlsx
+*.xlsx
