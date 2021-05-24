@@ -1,0 +1,26 @@
+{
+    "tc_mfl_myprofile_admin_delete_003": [
+        "sc-wifi-register"
+    ],
+    "tc_mfl_userprofile_0026": [
+        "pr-cal-localusers"
+    ],
+    "tc_mfl_userprofile_0029": [
+        "pr-cal-localusers"
+    ],
+    "tc_mfl_notconnected_002": [
+        "pr-cal-localusers"
+    ],
+    
+    "tc_mfl_gas_multiple_user_0001": [
+        "pr-cal-localusers"
+    ],
+    "tc_android_auto_0001_wireless": [
+        "ea-aap-normal",
+        "sc-csc-disablecarp"
+    ],
+    
+    "tc_mfl_76938_projection_0118_wireless": [
+        "ea-aap-normal"
+    ]
+}

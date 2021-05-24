@@ -1,0 +1,59 @@
+{
+    "Trailer_suv": [
+        "pr-cal-trailer-suv",
+        "pr-cal-trailerlite",
+        "ea-mon-normal",
+        "te-bcm-nobcm",
+        "any"
+    ],
+    "Wireless_android_auto": [
+        "te-bcm-nobcm",
+        "ea-waap1-normal",
+        "ea-mon-normal",
+        "ea-usb-normal",
+        "pr-apk-pandora",
+        "ac-user-gmuser",
+        "ea-bt1c1-unpair",
+        "ea-carp-noiphone",
+        "ea-sc-front",
+        "ea-sc-normal",
+        "ea-sc-front",
+        "ea-rmtp4-normal"
+    ],
+    "Phone_projection_1": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "ea-aap-normal",
+        "ea-iap-iphone",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "es-sc-normal",
+        "ea-usb-normal8",
+        "ea-rmtp4-normal",
+        "pr-apk-spotify"
+    ],
+    "Trailer_truck_8": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "ea-aap-normal",
+        "ea-iap-iphone",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "es-sc-normal",
+        "ea-usb-normal",
+        "ea-rmtp4-normal",
+        "pr-apk-spotify"
+    ],
+    "Gas_user_1": [
+        "te-bcm-nobcm",
+        "ea-mon-normal",
+        "ac-user-gmuser",
+        "ea-bt1c1-unpair",
+        "ea-bt2c2-unpair",
+        "sc-wifi-nowifi",
+        "ea-waap1c7-unpair",
+        "ea-sc-front"
+    ]
+}
