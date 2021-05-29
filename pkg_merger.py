@@ -8,9 +8,9 @@ def check_intersection(list1, list2):
 
 def open_json(filename):
     # For Windows
-    # with open('json\\' + filename) as f:
+    with open('json\\' + filename) as f:
     # For MacOS
-    with open('json/' + filename) as f:
+    # with open('json/' + filename) as f:
         return json.load(f)
 
 conflict_dict = open_json('pkg_conflict.json')
@@ -20,10 +20,9 @@ class Pkg_merger:
     def __init__(self, tcid_wb):
         self.tcid_wb = load_workbook('xlsx/' + tcid_wb).active
 
-
     def script_with_precode(self):
-        # ws_10 = load_workbook('xlsx/Precode_10.xlsx')['BJ']
-        ws_13 = load_workbook('xlsx/Precode_13.xlsx')['BJ']
+        # ws_10 = load_workbook('xlsx\\Precode_10.xlsx')['BJ']
+        ws_13 = load_workbook('xlsx\\Precode_13.xlsx')['BJ']
 
         tcid_ws = self.tcid_wb
 
@@ -79,7 +78,7 @@ class Pkg_merger:
 
 
 if __name__ == '__main__':
-    script_ConflictPrecode =  Pkg_merger('13_inch_only_cases.xlsx').iter_pkg()
+    script_ConflictPrecode = Pkg_merger('script_without_home.xlsx').iter_pkg()
 
     # print(len(script_ConflictPrecode))
 

@@ -33,19 +33,6 @@
         "ea-rmtp4-normal",
         "pr-apk-spotify"
     ],
-    "Trailer_truck_8": [
-        "te-bcm-nobcm",
-        "ea-mon-normal",
-        "ea-aap-normal",
-        "ea-iap-iphone",
-        "ea-wifi-antenna24g",
-        "ac-gas-testfang",
-        "pr-gas-toronto",
-        "es-sc-normal",
-        "ea-usb-normal",
-        "ea-rmtp4-normal",
-        "pr-apk-spotify"
-    ],
     "Gas_user_1": [
         "te-bcm-nobcm",
         "ea-mon-normal",
@@ -55,5 +42,20 @@
         "sc-wifi-nowifi",
         "ea-waap1c7-unpair",
         "ea-sc-front"
+    ],
+    "Ignition_package_2": [
+        "ea-ign-normal",
+        "ac-user-gmuser",
+        "te-ben-bcmon",
+        "pr-apk-lcm",
+        "pr-cal-acue",
+        "sc-wifi-register",
+        "ea-wifi-antenna24g",
+        "ac-gas-testfang",
+        "pr-gas-toronto",
+        "pr-cal-frontOnly",
+        "te-hvac-faceplate",
+        "te-hvac-ecc",
+        "pr-cal-trailer-suv"
     ]
 }
